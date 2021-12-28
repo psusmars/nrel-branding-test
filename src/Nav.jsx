@@ -11,7 +11,7 @@ function Nav() {
         <MenuLink to="/">Home</MenuLink>
         <SubMenu label="About">
           <MenuLink to="/about/what-is-the-nsrdb">What is the NSRDB?</MenuLink>
-          <MenuLink to="/about/what-is-the-nsrdb">Announ</MenuLink>
+          <MenuLink to="/about/announcements">Announcements</MenuLink>
         </SubMenu>
         <MenuLink to="/data-sets">Data Sets</MenuLink>
         <MenuLink to="/resources">Resources</MenuLink>
