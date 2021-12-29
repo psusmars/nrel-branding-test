@@ -13,6 +13,10 @@ function Nav() {
           <MenuLink to="/about/what-is-the-nsrdb">What is the NSRDB?</MenuLink>
           <MenuLink to="/about/announcements">Announcements</MenuLink>
         </SubMenu>
+        <SubMenu label="Set 2">
+          <MenuLink to="/set-two/foo">Foo?</MenuLink>
+          <MenuLink to="/set-two/bar">BAR?!</MenuLink>
+        </SubMenu>
         <MenuLink to="/data-sets">Data Sets</MenuLink>
         <MenuLink to="/resources">Resources</MenuLink>
         <MenuLink to="/data-viewer">NSRDB Viewer</MenuLink>
