@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "nrel-branding-react": {
-      "signature": "725af3f09f74b07317cee2e239be990c",
+      "signature": "49a3e94694c4f448aa5c36268eff551c",
       "file": true,
       "replaced": "1.0.13"
     }
